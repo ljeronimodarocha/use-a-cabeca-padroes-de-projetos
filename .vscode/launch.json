@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch StarBuzzCoffee",
+            "request": "launch",
+            "mainClass": "startBuzz.StarBuzzCoffee",
+            "projectName": "design-patterns_60b6bfb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch WeatherStation",
+            "request": "launch",
+            "mainClass": "estacao2.WeatherStation",
+            "projectName": "design-patterns_60b6bfb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch WeatherStation",
+            "request": "launch",
+            "mainClass": "estacao.WeatherStation",
+            "projectName": "design-patterns_60b6bfb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch testeCharacter",
+            "request": "launch",
+            "mainClass": "gameCharacter.testeCharacter",
+            "projectName": "design-patterns_60b6bfb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MiniDucksSimulator",
+            "request": "launch",
+            "mainClass": "test.MiniDucksSimulator",
+            "projectName": "design-patterns_60b6bfb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MiniDucksSimulator",
+            "request": "launch",
+            "mainClass": "java.MiniDucksSimulator",
+            "projectName": "design-patterns_60b6bfb1"
+        }
+    ]
+}
